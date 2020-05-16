@@ -6,4 +6,4 @@
 
 ## Author 
 
-- [Jessica Dosseh] (https://github.com/jessicadosseh)
+- [Jessica Dosseh](https://github.com/JessicaDosseh)
